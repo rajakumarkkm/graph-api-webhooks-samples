@@ -1,4 +1,4 @@
 AuthUserFile .htpasswd
 AuthType Basic
 AuthName "Restricted Access"
-Require Rajakumar
+Require rajakumar
